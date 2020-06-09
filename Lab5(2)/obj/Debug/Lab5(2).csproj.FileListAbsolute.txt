@@ -1,0 +1,7 @@
+E:\Arbeit\Лаба5\Lab5(2)\Lab5(2)\bin\Debug\Lab5(2).exe.config
+E:\Arbeit\Лаба5\Lab5(2)\Lab5(2)\bin\Debug\Lab5(2).exe
+E:\Arbeit\Лаба5\Lab5(2)\Lab5(2)\bin\Debug\Lab5(2).pdb
+E:\Arbeit\Лаба5\Lab5(2)\Lab5(2)\obj\Debug\Lab5(2).csprojAssemblyReference.cache
+E:\Arbeit\Лаба5\Lab5(2)\Lab5(2)\obj\Debug\Lab5(2).csproj.CoreCompileInputs.cache
+E:\Arbeit\Лаба5\Lab5(2)\Lab5(2)\obj\Debug\Lab5(2).exe
+E:\Arbeit\Лаба5\Lab5(2)\Lab5(2)\obj\Debug\Lab5(2).pdb
